@@ -26,6 +26,13 @@ This application can be used to write and save notes using express backed to sav
 <li>UUID</li>
 </ul>
 
+<h1>Screenshot</h1>
+
+![stark-plains-94056 herokuapp com_](https://user-images.githubusercontent.com/95305672/158083543-106847e0-467a-45bc-bade-bc66e409fb04.png)
+
+
+![stark-plains-94056 herokuapp com_notes](https://user-images.githubusercontent.com/95305672/158083546-fd3afa07-000c-43d2-9e96-f7036368ccb1.png)
+
 
 
 <h1>License</h1>
